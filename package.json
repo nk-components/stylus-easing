@@ -1,6 +1,6 @@
 {
   "name": "stylus-easing",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easing equations for CSS transitions",
   "main": "index.styl",
   "files": [
