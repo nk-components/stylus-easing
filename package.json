@@ -1,0 +1,25 @@
+{
+  "name": "stylus-easing",
+  "version": "0.0.0",
+  "description": "Easing equations for CSS transitions",
+  "main": "index.styl",
+  "files": [
+    "index.styl"
+  ],
+  "keywords": [
+    "stylus",
+    "ease",
+    "easing",
+    "function",
+    "transition"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nk-components/stylus-easing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nk-components/stylus-easing"
+  },
+  "bugs": {
+    "url": "https://github.com/nk-components/stylus-easing/issues"
+  }
+}
